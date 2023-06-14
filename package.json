@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "react-native": "^0.71.10",
+    "yarn": "^1.22.19"
+  }
+}
