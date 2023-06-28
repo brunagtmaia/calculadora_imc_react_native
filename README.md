@@ -24,6 +24,8 @@ Inclua algumas capturas de tela do seu aplicativo aqui.
 3. Execute o comando `npm start` para iniciar o aplicativo.
 
 ## Imagens do projeto: 
-<img src="Imagens/WhatsApp Image 2023-06-24 at 16.55.02.jpeg" alt="React Badge">
-<img src="Imagens/WhatsApp Image 2023-06-24 at 16.55.31.jpeg" alt="React Badge">
-<img src="Imagens/WhatsApp Image 2023-06-24 at 16.55.31.jpeg" alt="React Badge">
+<div style="display:flex">
+  <img src="Imagens/WhatsApp Image 2023-06-24 at 16.55.02.jpeg" alt="React Badge">
+  <img src="Imagens/WhatsApp Image 2023-06-24 at 16.55.31.jpeg" alt="React Badge">
+  <img src="Imagens/WhatsApp Image 2023-06-24 at 16.55.31.jpeg" alt="React Badge">
+</div>
